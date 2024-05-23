@@ -1,0 +1,1 @@
+print("Adim Emir Kacar.")
